@@ -27,4 +27,5 @@ Changes should start with one of the following tags:
 - [removed] The `stream` key was removed
 - [added] The `api_compatibility` field was added
 - [added] The `network_traffic` sensor was added
+- [added] The `area_size` key was added under `location`
 - [added] The `links` section was added
